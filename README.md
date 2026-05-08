@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 1º Trabalho Computacional – Sinais e Sistemas (PEN2244)
 
 Este repositório contém a resolução do 1º Trabalho Computacional da disciplina Sinais e Sistemas (PEN2244), utilizando Python na plataforma JupyterLab.
@@ -79,4 +77,3 @@ git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 =======
 # Trabalho-da-1a-unidade-de-Sinais-e-Sistemas
 Este repositório contém a resolução do 1º Trabalho Computacional da disciplina Sinais e Sistemas (PEN2244), utilizando Python na plataforma JupyterLab.
->>>>>>> 8557e677a123f819e8b424e60fc5e65bf0cd285d
